@@ -60,11 +60,13 @@ a:hover {
 .top-container {
   background-color: #E4F9F5;
   padding-top: 100px;
+  margin: 0;
 }
 
 .bottom-container {
   padding: 5px;
   background-color: #66bfbf;
+  margin: 0;
 
 }
 
