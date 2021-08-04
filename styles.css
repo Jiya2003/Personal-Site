@@ -58,11 +58,10 @@ a:hover {
 }
 
 .top-container {
-  position: relative;
   background-color: #E4F9F5;
   padding-top: 100px;
-  width: 100%;
-  
+  margin: 0;
+  position:relative;
 }
 
 .bottom-container {
@@ -74,12 +73,13 @@ a:hover {
 
 .bottom-cloud {
   position: absolute;
-  left: 400px;
+  left: 300px;
+bottom: 300px;
 }
 
 .top-cloud {
   position: absolute;
-  left: 950px;
+  right: 300px;
   top: 30px;
 }
 
